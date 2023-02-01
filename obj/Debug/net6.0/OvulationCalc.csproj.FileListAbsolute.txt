@@ -1,0 +1,12 @@
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\bin\Debug\net6.0\OvulationCalc.deps.json
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\bin\Debug\net6.0\OvulationCalc.dll
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\bin\Debug\net6.0\OvulationCalc.pdb
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\OvulationCalc.csproj.AssemblyReference.cache
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\OvulationCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\OvulationCalc.AssemblyInfoInputs.cache
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\OvulationCalc.AssemblyInfo.cs
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\OvulationCalc.csproj.CoreCompileInputs.cache
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\OvulationCalc.dll
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\refint\OvulationCalc.dll
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\OvulationCalc.pdb
+C:\Users\kopylov.v\Documents\Projects\dotnet\OvulationMath\OvulationCalc\obj\Debug\net6.0\ref\OvulationCalc.dll

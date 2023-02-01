@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uuc/0eioc/34z79xLQWxj0uSEY1OSh/ymI4S2Gn+/SPzzYq3gUXbCKeS/v6mRlqvOYzY/IJGiwzZubC4vFH8cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kopylov.v\\Documents\\Projects\\dotnet\\OvulationMath\\OvulationCalc\\OvulationCalc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kopylov.v\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
