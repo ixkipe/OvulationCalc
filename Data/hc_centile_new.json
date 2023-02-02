@@ -1,0 +1,272 @@
+[
+  {
+  "week": 14,
+  "third": 87.4,
+  "fifth": 88.7,
+  "tenth": 90.7,
+  "fiftieth": 97.9,
+  "ninetieth": 105,
+  "ninetyFifth": 107.1,
+  "ninetySeventh": 108.4
+  },
+  {
+  "week": 15,
+  "third": 99.2,
+  "fifth": 100.6,
+  "tenth": 102.8,
+  "fiftieth": 110.4,
+  "ninetieth": 118,
+  "ninetyFifth": 120.1,
+  "ninetySeventh": 121.5
+  },
+  {
+  "week": 16,
+  "third": 111.1,
+  "fifth": 112.6,
+  "tenth": 114.9,
+  "fiftieth": 122.9,
+  "ninetieth": 130.9,
+  "ninetyFifth": 133.2,
+  "ninetySeventh": 134.7
+  },
+  {
+  "week": 17,
+  "third": 123,
+  "fifth": 124.6,
+  "tenth": 127,
+  "fiftieth": 135.4,
+  "ninetieth": 143.9,
+  "ninetyFifth": 146.3,
+  "ninetySeventh": 147.8
+  },
+  {
+  "week": 18,
+  "third": 134.9,
+  "fifth": 136.6,
+  "tenth": 139.1,
+  "fiftieth": 147.9,
+  "ninetieth": 156.7,
+  "ninetyFifth": 159.2,
+  "ninetySeventh": 160.9
+  },
+  {
+  "week": 19,
+  "third": 146.8,
+  "fifth": 148.5,
+  "tenth": 151.1,
+  "fiftieth": 160.3,
+  "ninetieth": 169.5,
+  "ninetyFifth": 172.1,
+  "ninetySeventh": 173.8
+  },
+  {
+  "week": 20,
+  "third": 158.5,
+  "fifth": 160.2,
+  "tenth": 163,
+  "fiftieth": 172.5,
+  "ninetieth": 182,
+  "ninetyFifth": 184.7,
+  "ninetySeventh": 186.5
+  },
+  {
+  "week": 21,
+  "third": 170.1,
+  "fifth": 171.9,
+  "tenth": 174.7,
+  "fiftieth": 184.5,
+  "ninetieth": 194.3,
+  "ninetyFifth": 197.1,
+  "ninetySeventh": 199
+  },
+  {
+  "week": 22,
+  "third": 181.4,
+  "fifth": 183.3,
+  "tenth": 186.2,
+  "fiftieth": 196.3,
+  "ninetieth": 206.4,
+  "ninetyFifth": 209.3,
+  "ninetySeventh": 211.2
+  },
+  {
+  "week": 23,
+  "third": 192.6,
+  "fifth": 194.5,
+  "tenth": 197.5,
+  "fiftieth": 207.8,
+  "ninetieth": 218.2,
+  "ninetyFifth": 221.2,
+  "ninetySeventh": 223.1
+  },
+  {
+  "week": 24,
+  "third": 203.5,
+  "fifth": 205.4,
+  "tenth": 208.5,
+  "fiftieth": 219.1,
+  "ninetieth": 229.7,
+  "ninetyFifth": 232.7,
+  "ninetySeventh": 234.7
+  },
+  {
+  "week": 25,
+  "third": 214.1,
+  "fifth": 216,
+  "tenth": 219.1,
+  "fiftieth": 230,
+  "ninetieth": 240.8,
+  "ninetyFifth": 243.9,
+  "ninetySeventh": 245.9
+  },
+  {
+  "week": 26,
+  "third": 224.3,
+  "fifth": 226.3,
+  "tenth": 229.5,
+  "fiftieth": 240.5,
+  "ninetieth": 251.6,
+  "ninetyFifth": 254.7,
+  "ninetySeventh": 256.7
+  },
+  {
+  "week": 27,
+  "third": 234.1,
+  "fifth": 236.2,
+  "tenth": 239.4,
+  "fiftieth": 250.7,
+  "ninetieth": 261.9,
+  "ninetyFifth": 265.1,
+  "ninetySeventh": 267.2
+  },
+  {
+  "week": 28,
+  "third": 243.6,
+  "fifth": 245.7,
+  "tenth": 248.9,
+  "fiftieth": 260.4,
+  "ninetieth": 271.8,
+  "ninetyFifth": 275.1,
+  "ninetySeventh": 277.2
+  },
+  {
+  "week": 29,
+  "third": 252.5,
+  "fifth": 254.7,
+  "tenth": 258,
+  "fiftieth": 269.6,
+  "ninetieth": 281.3,
+  "ninetyFifth": 284.6,
+  "ninetySeventh": 286.7
+  },
+  {
+  "week": 30,
+  "third": 261,
+  "fifth": 263.2,
+  "tenth": 266.5,
+  "fiftieth": 278.4,
+  "ninetieth": 290.2,
+  "ninetyFifth": 293.6,
+  "ninetySeventh": 295.8
+  },
+  {
+  "week": 31,
+  "third": 268.9,
+  "fifth": 271.1,
+  "tenth": 274.6,
+  "fiftieth": 286.6,
+  "ninetieth": 298.7,
+  "ninetyFifth": 302.1,
+  "ninetySeventh": 304.4
+  },
+  {
+  "week": 32,
+  "third": 276.3,
+  "fifth": 278.5,
+  "tenth": 282.1,
+  "fiftieth": 294.4,
+  "ninetieth": 306.7,
+  "ninetyFifth": 310.2,
+  "ninetySeventh": 312.5
+  },
+  {
+  "week": 33,
+  "third": 283,
+  "fifth": 285.3,
+  "tenth": 288.9,
+  "fiftieth": 301.5,
+  "ninetieth": 314.1,
+  "ninetyFifth": 317.7,
+  "ninetySeventh": 320
+  },
+  {
+  "week": 34,
+  "third": 289.1,
+  "fifth": 291.5,
+  "tenth": 295.2,
+  "fiftieth": 308.1,
+  "ninetieth": 321,
+  "ninetyFifth": 324.7,
+  "ninetySeventh": 327.1
+  },
+  {
+  "week": 35,
+  "third": 294.5,
+  "fifth": 296.9,
+  "tenth": 300.8,
+  "fiftieth": 314.1,
+  "ninetieth": 327.4,
+  "ninetyFifth": 331.2,
+  "ninetySeventh": 333.6
+  },
+  {
+  "week": 36,
+  "third": 299.2,
+  "fifth": 301.7,
+  "tenth": 305.6,
+  "fiftieth": 319.4,
+  "ninetieth": 333.2,
+  "ninetyFifth": 337.1,
+  "ninetySeventh": 339.6
+  },
+  {
+  "week": 37,
+  "third": 303.1,
+  "fifth": 305.7,
+  "tenth": 309.8,
+  "fiftieth": 324.1,
+  "ninetieth": 338.4,
+  "ninetyFifth": 342.5,
+  "ninetySeventh": 345.1
+  },
+  {
+  "week": 38,
+  "third": 306.1,
+  "fifth": 308.9,
+  "tenth": 313.1,
+  "fiftieth": 328.1,
+  "ninetieth": 343,
+  "ninetyFifth": 347.3,
+  "ninetySeventh": 350
+  },
+  {
+  "week": 39,
+  "third": 308.3,
+  "fifth": 311.2,
+  "tenth": 315.7,
+  "fiftieth": 331.4,
+  "ninetieth": 347.1,
+  "ninetyFifth": 351.5,
+  "ninetySeventh": 354.4
+  },
+  {
+  "week": 40,
+  "third": 309.6,
+  "fifth": 312.7,
+  "tenth": 317.4,
+  "fiftieth": 333.9,
+  "ninetieth": 350.5,
+  "ninetyFifth": 355.2,
+  "ninetySeventh": 358.3
+  }
+]

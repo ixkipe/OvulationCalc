@@ -1,0 +1,272 @@
+[
+  {
+  "week": 14,
+  "negativeThree": 81.1,
+  "negativeTwo": 86.7,
+  "negativeOne": 92.3,
+  "zero": 97.9,
+  "one": 103.5,
+  "two": 109,
+  "three": 114.6
+  },
+  {
+  "week": 15,
+  "negativeThree": 92.6,
+  "negativeTwo": 98.5,
+  "negativeOne": 104.4,
+  "zero": 110.4,
+  "one": 116.3,
+  "two": 122.2,
+  "three": 128.2
+  },
+  {
+  "week": 16,
+  "negativeThree": 104.1,
+  "negativeTwo": 110.4,
+  "negativeOne": 116.6,
+  "zero": 122.9,
+  "one": 129.2,
+  "two": 135.5,
+  "three": 141.7
+  },
+  {
+  "week": 17,
+  "negativeThree": 115.7,
+  "negativeTwo": 122.3,
+  "negativeOne": 128.8,
+  "zero": 135.4,
+  "one": 142,
+  "two": 148.6,
+  "three": 155.2
+  },
+  {
+  "week": 18,
+  "negativeThree": 127.2,
+  "negativeTwo": 134.1,
+  "negativeOne": 141,
+  "zero": 147.9,
+  "one": 154.8,
+  "two": 161.7,
+  "three": 168.6
+  },
+  {
+  "week": 19,
+  "negativeThree": 138.7,
+  "negativeTwo": 145.9,
+  "negativeOne": 153.1,
+  "zero": 160.3,
+  "one": 167.4,
+  "two": 174.6,
+  "three": 181.8
+  },
+  {
+  "week": 20,
+  "negativeThree": 150.2,
+  "negativeTwo": 157.6,
+  "negativeOne": 165,
+  "zero": 172.5,
+  "one": 179.9,
+  "two": 187.4,
+  "three": 194.8
+  },
+  {
+  "week": 21,
+  "negativeThree": 161.5,
+  "negativeTwo": 169.1,
+  "negativeOne": 176.8,
+  "zero": 184.5,
+  "one": 192.2,
+  "two": 199.9,
+  "three": 207.6
+  },
+  {
+  "week": 22,
+  "negativeThree": 172.6,
+  "negativeTwo": 180.5,
+  "negativeOne": 188.4,
+  "zero": 196.3,
+  "one": 204.2,
+  "two": 212.1,
+  "three": 220
+  },
+  {
+  "week": 23,
+  "negativeThree": 183.5,
+  "negativeTwo": 191.6,
+  "negativeOne": 199.7,
+  "zero": 207.8,
+  "one": 215.9,
+  "two": 224.1,
+  "three": 232.2
+  },
+  {
+  "week": 24,
+  "negativeThree": 194.2,
+  "negativeTwo": 202.5,
+  "negativeOne": 210.8,
+  "zero": 219.1,
+  "one": 227.4,
+  "two": 235.7,
+  "three": 244
+  },
+  {
+  "week": 25,
+  "negativeThree": 204.6,
+  "negativeTwo": 213,
+  "negativeOne": 221.5,
+  "zero": 230,
+  "one": 238.4,
+  "two": 246.9,
+  "three": 255.4
+  },
+  {
+  "week": 26,
+  "negativeThree": 214.6,
+  "negativeTwo": 223.2,
+  "negativeOne": 231.9,
+  "zero": 240.5,
+  "one": 249.1,
+  "two": 257.8,
+  "three": 266.4
+  },
+  {
+  "week": 27,
+  "negativeThree": 224.3,
+  "negativeTwo": 233.1,
+  "negativeOne": 241.9,
+  "zero": 250.6,
+  "one": 259.4,
+  "two": 268.2,
+  "three": 277
+  },
+  {
+  "week": 28,
+  "negativeThree": 233.5,
+  "negativeTwo": 242.5,
+  "negativeOne": 251.4,
+  "zero": 260.4,
+  "one": 269.3,
+  "two": 278.2,
+  "three": 287.2
+  },
+  {
+  "week": 29,
+  "negativeThree": 242.3,
+  "negativeTwo": 251.4,
+  "negativeOne": 260.5,
+  "zero": 269.6,
+  "one": 278.7,
+  "two": 287.8,
+  "three": 296.9
+  },
+  {
+  "week": 30,
+  "negativeThree": 250.6,
+  "negativeTwo": 259.9,
+  "negativeOne": 269.1,
+  "zero": 278.4,
+  "one": 287.6,
+  "two": 296.9,
+  "three": 306.1
+  },
+  {
+  "week": 31,
+  "negativeThree": 258.4,
+  "negativeTwo": 267.8,
+  "negativeOne": 277.2,
+  "zero": 286.6,
+  "one": 296.1,
+  "two": 305.5,
+  "three": 314.9
+  },
+  {
+  "week": 32,
+  "negativeThree": 265.5,
+  "negativeTwo": 275.1,
+  "negativeOne": 284.7,
+  "zero": 294.4,
+  "one": 304,
+  "two": 313.6,
+  "three": 323.2
+  },
+  {
+  "week": 33,
+  "negativeThree": 272,
+  "negativeTwo": 281.8,
+  "negativeOne": 291.7,
+  "zero": 301.5,
+  "one": 311.4,
+  "two": 321.2,
+  "three": 331.1
+  },
+  {
+  "week": 34,
+  "negativeThree": 277.8,
+  "negativeTwo": 287.9,
+  "negativeOne": 298,
+  "zero": 308.1,
+  "one": 318.2,
+  "two": 328.3,
+  "three": 338.4
+  },
+  {
+  "week": 35,
+  "negativeThree": 282.8,
+  "negativeTwo": 293.3,
+  "negativeOne": 303.7,
+  "zero": 314.1,
+  "one": 324.5,
+  "two": 334.9,
+  "three": 345.3
+  },
+  {
+  "week": 36,
+  "negativeThree": 287.1,
+  "negativeTwo": 297.9,
+  "negativeOne": 308.6,
+  "zero": 319.4,
+  "one": 330.2,
+  "two": 340.9,
+  "three": 351.7
+  },
+  {
+  "week": 37,
+  "negativeThree": 290.5,
+  "negativeTwo": 301.7,
+  "negativeOne": 312.9,
+  "zero": 324.1,
+  "one": 335.3,
+  "two": 346.4,
+  "three": 357.6
+  },
+  {
+  "week": 38,
+  "negativeThree": 293,
+  "negativeTwo": 304.7,
+  "negativeOne": 316.4,
+  "zero": 328.1,
+  "one": 339.7,
+  "two": 351.4,
+  "three": 363.1
+  },
+  {
+  "week": 39,
+  "negativeThree": 294.6,
+  "negativeTwo": 306.9,
+  "negativeOne": 319.1,
+  "zero": 331.4,
+  "one": 343.6,
+  "two": 355.9,
+  "three": 368.1
+  },
+  {
+  "week": 40,
+  "negativeThree": 295.2,
+  "negativeTwo": 308.1,
+  "negativeOne": 321,
+  "zero": 333.9,
+  "one": 346.9,
+  "two": 359.8,
+  "three": 372.7
+  }
+]
