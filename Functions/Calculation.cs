@@ -4,38 +4,34 @@ using OvulationCalc.Consts;
 namespace OvulationCalc;
 
 public static class Calculation {
-  public static KeyValuePair<double, double> ZIndexAndCentile(this InputDTO input, InputType type) {
-    switch (type) {
-      case InputType.HC:
-        return input.HCResult();
-      case InputType.BPD:
-        return input.BPDResult();
-      case InputType.AC:
-        return input.ACResult();
-      case InputType.FL:
-        return input.FLResult();
-      case InputType.OFD:
-        return input.OFDResult();
 
-      default:
-        throw new ArgumentException("Unidentified value type.");
-    }
-  }
-
-  private static KeyValuePair<double, double> HCResult(this InputDTO input) {
-    var ga = input.Weeks + (input.Days / 7d);
-    ReadOnlySpan<double> values = new ReadOnlySpan<double>(array: new[] {Math.Pow(ga, 2d), Math.Pow(ga, 3d), Math.Log(ga)});
-
-    var zScore = (input.Millimeters - (HC.MedianValue1 + HC.MedianValue2 * values[0] - HC.MedianValue3 * values[0] * values[2])) / (HC.StdDevValue1 + HC.StdDevValue2 * values[1] - HC.StdDevValue3 * values[1] * values[2] + HC.StdDevValue4 * values[1] * Math.Pow(values[2], 2d));
+  public static KeyValuePair<double, double> HCResult(this ReadOnlySpan<double> values, int millimeters) {
+    var zScore = (millimeters - (HC.MedianValue1 + HC.MedianValue2 * values[0] - HC.MedianValue3 * values[0] * values[2])) / (HC.StdDevValue1 + HC.StdDevValue2 * values[1] - HC.StdDevValue3 * values[1] * values[2] + HC.StdDevValue4 * values[1] * Math.Pow(values[2], 2d));
 
     return new(zScore, Normal.CDF(0, 1, zScore) * 100);
   }
 
-  private static KeyValuePair<double, double> BPDResult(this InputDTO input) => throw new NotImplementedException();
+  public static KeyValuePair<double, double> BPDResult(this ReadOnlySpan<double> values, int millimeters) {
+    var zScore = (millimeters - (BPD.MedianValue1 + BPD.MedianValue2 * values[0] - BPD.MedianValue3 * values[1])) / Math.Exp(BPD.StdDevValue1 + BPD.StdDevValue2 * values[1] - BPD.StdDevValue3 * values[1] * values[2] + BPD.StdDevValue4 * values[1] * Math.Pow(values[2], 2d));
 
-  private static KeyValuePair<double, double> ACResult(this InputDTO input) => throw new NotImplementedException();
+    return new(zScore, Normal.CDF(0, 1, zScore) * 100);
+  }
 
-  private static KeyValuePair<double, double> FLResult(this InputDTO input) => throw new NotImplementedException();
+  public static KeyValuePair<double, double> ACResult(this ReadOnlySpan<double> values, int millimeters) {
+    var zScore = (millimeters - (AC.MedianValue1 + AC.MedianValue2 * values[3] - AC.MedianValue3 * values[1])) / (AC.StdDevValue1 + AC.StdDevValue2 * values[0] - AC.StdDevValue3 * values[1] + AC.StdDevValue4 * values[1] * values[2]);
 
-  private static KeyValuePair<double, double> OFDResult(this InputDTO input) => throw new NotImplementedException();
+    return new(zScore, Normal.CDF(0, 1, zScore) * 100);
+  }
+
+  public static KeyValuePair<double, double> FLResult(this ReadOnlySpan<double> values, int millimeters) {
+    var zScore = (millimeters - (FL.MedianValue1 + FL.MedianValue2 * values[3] - FL.MedianValue3 * values[0])) / Math.Exp(FL.StdDevValue1 - FL.StdDevValue2 * Math.Pow(values[3], -2d) + FL.StdDevValue3 * values[1]);
+
+    return new(zScore, Normal.CDF(0, 1, zScore) * 100);
+  }
+
+  public static KeyValuePair<double, double> OFDResult(this ReadOnlySpan<double> values, int millimeters) {
+    var zScore = (millimeters - (OFD.MedianValue1 + OFD.MedianValue2 * values[0] - OFD.MedianValue3 * values[0] * values[2])) / Math.Exp(OFD.StdDevValue1 + OFD.StdDevValue2 * values[0] - OFD.StdDevValue3 * values[0] * values[2] + OFD.StdDevValue4 * values[0] * Math.Pow(values[2], 2d));
+
+    return new(zScore, Normal.CDF(0, 1, zScore) * 100);
+  }
 }
