@@ -3,6 +3,7 @@ using OvulationCalc.Models;
 
 namespace OvulationCalc;
 
+#nullable disable warnings
 public class DataDeserializer {
   public IEnumerable<HCCentile> HCCentileStandards { get; }
   public IEnumerable<HCZScore> HCZScoreStandards { get; }
